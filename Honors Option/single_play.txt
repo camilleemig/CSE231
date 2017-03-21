@@ -1,0 +1,1603 @@
+              STRATEGY'S PITS               
+         M    L    K    J    I    H  
+      |----|----|----|----|----|----|
+         4    4    4    4    4    4
+    0                                 0
+         4    4    4    4    4    4
+      |----|----|----|----|----|----|
+         A    B    C    D    E    F  
+               AMAZING'S PITS               
+
+Amazing's Score: 0
+Strategy's Score: 0
+
+--------------------
+
+AMAZING'S TURN
+
+              STRATEGY'S PITS               
+         M    L    K    J    I    H  
+      |----|----|----|----|----|----|
+         4    4    4    4    4    4
+    0                                 1
+         4    4    0    5    5    5
+      |----|----|----|----|----|----|
+         A    B    C    D    E    F  
+               AMAZING'S PITS               
+
+Amazing's Score: 1
+Strategy's Score: 0
+Moved 4 from C
+Amazing's score increased by 1
+Strategy's score increased by 0
+Amazing gets to play again
+Chosen because it gains another move
+
+--------------------
+
+AMAZING'S TURN
+
+              STRATEGY'S PITS               
+         M    L    K    J    I    H  
+      |----|----|----|----|----|----|
+         4    4    4    5    5    5
+    0                                 2
+         4    4    0    5    0    6
+      |----|----|----|----|----|----|
+         A    B    C    D    E    F  
+               AMAZING'S PITS               
+
+Amazing's Score: 2
+Strategy's Score: 0
+Moved 5 from E
+Amazing's score increased by 1
+Strategy's score increased by 0
+Chosen because it hurts strategy's play
+
+--------------------
+
+STRATEGY'S TURN
+
+              STRATEGY'S PITS               
+         M    L    K    J    I    H  
+      |----|----|----|----|----|----|
+         5    5    5    6    0    5
+    1                                 2
+         4    4    0    5    0    6
+      |----|----|----|----|----|----|
+         A    B    C    D    E    F  
+               AMAZING'S PITS               
+
+Amazing's Score: 2
+Strategy's Score: 1
+Moved 5 from I
+Amazing's score increased by 0
+Strategy's score increased by 1
+Strategy gets to play again
+
+--------------------
+
+STRATEGY'S TURN
+
+              STRATEGY'S PITS               
+         M    L    K    J    I    H  
+      |----|----|----|----|----|----|
+         0    5    5    6    0    5
+    2                                 2
+         5    5    1    6    0    6
+      |----|----|----|----|----|----|
+         A    B    C    D    E    F  
+               AMAZING'S PITS               
+
+Amazing's Score: 2
+Strategy's Score: 2
+Moved 5 from M
+Amazing's score increased by 0
+Strategy's score increased by 1
+
+--------------------
+
+AMAZING'S TURN
+
+              STRATEGY'S PITS               
+         M    L    K    J    I    H  
+      |----|----|----|----|----|----|
+         0    5    5    6    0    5
+    2                                 3
+         5    0    2    7    1    7
+      |----|----|----|----|----|----|
+         A    B    C    D    E    F  
+               AMAZING'S PITS               
+
+Amazing's Score: 3
+Strategy's Score: 2
+Moved 5 from B
+Amazing's score increased by 1
+Strategy's score increased by 0
+Amazing gets to play again
+Chosen because it gains another move
+
+--------------------
+
+AMAZING'S TURN
+
+              STRATEGY'S PITS               
+         M    L    K    J    I    H  
+      |----|----|----|----|----|----|
+         1    6    6    7    1    6
+    2                                 4
+         5    0    2    7    1    0
+      |----|----|----|----|----|----|
+         A    B    C    D    E    F  
+               AMAZING'S PITS               
+
+Amazing's Score: 4
+Strategy's Score: 2
+Moved 7 from F
+Amazing's score increased by 1
+Strategy's score increased by 0
+Chosen because it is closest to the pit
+
+--------------------
+
+STRATEGY'S TURN
+
+              STRATEGY'S PITS               
+         M    L    K    J    I    H  
+      |----|----|----|----|----|----|
+         2    7    7    8    2    0
+    3                                 4
+         5    0    2    7    1    0
+      |----|----|----|----|----|----|
+         A    B    C    D    E    F  
+               AMAZING'S PITS               
+
+Amazing's Score: 4
+Strategy's Score: 3
+Moved 6 from H
+Amazing's score increased by 0
+Strategy's score increased by 1
+Strategy gets to play again
+
+--------------------
+
+STRATEGY'S TURN
+
+              STRATEGY'S PITS               
+         M    L    K    J    I    H  
+      |----|----|----|----|----|----|
+         0    7    7    8    2    0
+    4                                 4
+         6    0    2    7    1    0
+      |----|----|----|----|----|----|
+         A    B    C    D    E    F  
+               AMAZING'S PITS               
+
+Amazing's Score: 4
+Strategy's Score: 4
+Moved 2 from M
+Amazing's score increased by 0
+Strategy's score increased by 1
+
+--------------------
+
+AMAZING'S TURN
+
+              STRATEGY'S PITS               
+         M    L    K    J    I    H  
+      |----|----|----|----|----|----|
+         0    7    7    8    2    0
+    4                                 5
+         0    1    3    8    2    1
+      |----|----|----|----|----|----|
+         A    B    C    D    E    F  
+               AMAZING'S PITS               
+
+Amazing's Score: 5
+Strategy's Score: 4
+Moved 6 from A
+Amazing's score increased by 1
+Strategy's score increased by 0
+Amazing gets to play again
+Chosen because it gains another move
+
+--------------------
+
+AMAZING'S TURN
+
+              STRATEGY'S PITS               
+         M    L    K    J    I    H  
+      |----|----|----|----|----|----|
+         0    7    7    8    2    0
+    4                                 6
+         0    1    3    8    0    2
+      |----|----|----|----|----|----|
+         A    B    C    D    E    F  
+               AMAZING'S PITS               
+
+Amazing's Score: 6
+Strategy's Score: 4
+Moved 2 from E
+Amazing's score increased by 1
+Strategy's score increased by 0
+Amazing gets to play again
+Chosen because it gains another move
+
+--------------------
+
+AMAZING'S TURN
+
+              STRATEGY'S PITS               
+         M    L    K    J    I    H  
+      |----|----|----|----|----|----|
+         0    7    7    8    2    1
+    4                                 7
+         0    1    3    8    0    0
+      |----|----|----|----|----|----|
+         A    B    C    D    E    F  
+               AMAZING'S PITS               
+
+Amazing's Score: 7
+Strategy's Score: 4
+Moved 2 from F
+Amazing's score increased by 1
+Strategy's score increased by 0
+Chosen because it is closest to the pit
+
+--------------------
+
+STRATEGY'S TURN
+
+              STRATEGY'S PITS               
+         M    L    K    J    I    H  
+      |----|----|----|----|----|----|
+         1    0    7    8    2    1
+    5                                 7
+         1    2    4    9    1    0
+      |----|----|----|----|----|----|
+         A    B    C    D    E    F  
+               AMAZING'S PITS               
+
+Amazing's Score: 7
+Strategy's Score: 5
+Moved 7 from L
+Amazing's score increased by 0
+Strategy's score increased by 1
+
+--------------------
+
+AMAZING'S TURN
+
+              STRATEGY'S PITS               
+         M    L    K    J    I    H  
+      |----|----|----|----|----|----|
+         1    0    7    8    2    1
+    5                                 8
+         1    2    0   10    2    1
+      |----|----|----|----|----|----|
+         A    B    C    D    E    F  
+               AMAZING'S PITS               
+
+Amazing's Score: 8
+Strategy's Score: 5
+Moved 4 from C
+Amazing's score increased by 1
+Strategy's score increased by 0
+Amazing gets to play again
+Chosen because it gains another move
+
+--------------------
+
+AMAZING'S TURN
+
+              STRATEGY'S PITS               
+         M    L    K    J    I    H  
+      |----|----|----|----|----|----|
+         1    0    7    8    2    1
+    5                                 9
+         1    2    0   10    0    2
+      |----|----|----|----|----|----|
+         A    B    C    D    E    F  
+               AMAZING'S PITS               
+
+Amazing's Score: 9
+Strategy's Score: 5
+Moved 2 from E
+Amazing's score increased by 1
+Strategy's score increased by 0
+Amazing gets to play again
+Chosen because it gains another move
+
+--------------------
+
+AMAZING'S TURN
+
+              STRATEGY'S PITS               
+         M    L    K    J    I    H  
+      |----|----|----|----|----|----|
+         1    0    7    8    2    2
+    5                                10
+         1    2    0   10    0    0
+      |----|----|----|----|----|----|
+         A    B    C    D    E    F  
+               AMAZING'S PITS               
+
+Amazing's Score: 10
+Strategy's Score: 5
+Moved 2 from F
+Amazing's score increased by 1
+Strategy's score increased by 0
+Chosen because it is closest to the pit
+
+--------------------
+
+STRATEGY'S TURN
+
+              STRATEGY'S PITS               
+         M    L    K    J    I    H  
+      |----|----|----|----|----|----|
+         0    0    7    8    2    2
+    6                                10
+         1    2    0   10    0    0
+      |----|----|----|----|----|----|
+         A    B    C    D    E    F  
+               AMAZING'S PITS               
+
+Amazing's Score: 10
+Strategy's Score: 6
+Moved 1 from M
+Amazing's score increased by 0
+Strategy's score increased by 1
+Strategy gets to play again
+
+--------------------
+
+STRATEGY'S TURN
+
+              STRATEGY'S PITS               
+         M    L    K    J    I    H  
+      |----|----|----|----|----|----|
+         1    1    0    8    2    2
+    7                                10
+         2    3    1   11    0    0
+      |----|----|----|----|----|----|
+         A    B    C    D    E    F  
+               AMAZING'S PITS               
+
+Amazing's Score: 10
+Strategy's Score: 7
+Moved 7 from K
+Amazing's score increased by 0
+Strategy's score increased by 1
+
+--------------------
+
+AMAZING'S TURN
+
+              STRATEGY'S PITS               
+         M    L    K    J    I    H  
+      |----|----|----|----|----|----|
+         1    1    0    8    0    2
+    7                                10
+         2    0    2   12    3    0
+      |----|----|----|----|----|----|
+         A    B    C    D    E    F  
+               AMAZING'S PITS               
+
+Amazing's Score: 10
+Strategy's Score: 7
+Moved 3 from B
+Amazing's score increased by 0
+Strategy's score increased by 0
+Amazing captured 2 tiles from I!
+Chosen because it captures seeds
+
+--------------------
+
+STRATEGY'S TURN
+
+              STRATEGY'S PITS               
+         M    L    K    J    I    H  
+      |----|----|----|----|----|----|
+         0    1    0    8    0    2
+    8                                10
+         2    0    2   12    3    0
+      |----|----|----|----|----|----|
+         A    B    C    D    E    F  
+               AMAZING'S PITS               
+
+Amazing's Score: 10
+Strategy's Score: 8
+Moved 1 from M
+Amazing's score increased by 0
+Strategy's score increased by 1
+Strategy gets to play again
+
+--------------------
+
+STRATEGY'S TURN
+
+              STRATEGY'S PITS               
+         M    L    K    J    I    H  
+      |----|----|----|----|----|----|
+         3    0    0    8    0    2
+    8                                10
+         0    0    2   12    3    0
+      |----|----|----|----|----|----|
+         A    B    C    D    E    F  
+               AMAZING'S PITS               
+
+Amazing's Score: 10
+Strategy's Score: 8
+Moved 1 from L
+Amazing's score increased by 0
+Strategy's score increased by 0
+Strategy captured 2 tiles from A!
+
+--------------------
+
+AMAZING'S TURN
+
+              STRATEGY'S PITS               
+         M    L    K    J    I    H  
+      |----|----|----|----|----|----|
+         3    0    0    8    0    3
+    8                                11
+         0    0    2   12    0    1
+      |----|----|----|----|----|----|
+         A    B    C    D    E    F  
+               AMAZING'S PITS               
+
+Amazing's Score: 11
+Strategy's Score: 8
+Moved 3 from E
+Amazing's score increased by 1
+Strategy's score increased by 0
+Chosen because it is closest to the pit
+
+--------------------
+
+STRATEGY'S TURN
+
+              STRATEGY'S PITS               
+         M    L    K    J    I    H  
+      |----|----|----|----|----|----|
+         0    0    0    8    0    3
+    9                                11
+         1    1    2   12    0    1
+      |----|----|----|----|----|----|
+         A    B    C    D    E    F  
+               AMAZING'S PITS               
+
+Amazing's Score: 11
+Strategy's Score: 9
+Moved 3 from M
+Amazing's score increased by 0
+Strategy's score increased by 1
+
+--------------------
+
+AMAZING'S TURN
+
+              STRATEGY'S PITS               
+         M    L    K    J    I    H  
+      |----|----|----|----|----|----|
+         0    0    0    8    0    3
+    9                                12
+         1    1    2   12    0    0
+      |----|----|----|----|----|----|
+         A    B    C    D    E    F  
+               AMAZING'S PITS               
+
+Amazing's Score: 12
+Strategy's Score: 9
+Moved 1 from F
+Amazing's score increased by 1
+Strategy's score increased by 0
+Amazing gets to play again
+Chosen because it gains another move
+
+--------------------
+
+AMAZING'S TURN
+
+              STRATEGY'S PITS               
+         M    L    K    J    I    H  
+      |----|----|----|----|----|----|
+         0    0    0    8    0    3
+    9                                12
+         1    1    0   13    1    0
+      |----|----|----|----|----|----|
+         A    B    C    D    E    F  
+               AMAZING'S PITS               
+
+Amazing's Score: 12
+Strategy's Score: 9
+Moved 2 from C
+Amazing's score increased by 0
+Strategy's score increased by 0
+Amazing captured 0 tiles from I!
+Chosen because it captures seeds
+
+--------------------
+
+STRATEGY'S TURN
+
+              STRATEGY'S PITS               
+         M    L    K    J    I    H  
+      |----|----|----|----|----|----|
+         1    1    1    0    0    3
+   10                                12
+         2    2    1   14    1    0
+      |----|----|----|----|----|----|
+         A    B    C    D    E    F  
+               AMAZING'S PITS               
+
+Amazing's Score: 12
+Strategy's Score: 10
+Moved 8 from J
+Amazing's score increased by 0
+Strategy's score increased by 1
+
+--------------------
+
+AMAZING'S TURN
+
+              STRATEGY'S PITS               
+         M    L    K    J    I    H  
+      |----|----|----|----|----|----|
+         1    1    1    0    0    0
+   10                                12
+         2    2    1   14    0    4
+      |----|----|----|----|----|----|
+         A    B    C    D    E    F  
+               AMAZING'S PITS               
+
+Amazing's Score: 12
+Strategy's Score: 10
+Moved 1 from E
+Amazing's score increased by 0
+Strategy's score increased by 0
+Amazing captured 3 tiles from H!
+Chosen because it captures seeds
+
+--------------------
+
+STRATEGY'S TURN
+
+              STRATEGY'S PITS               
+         M    L    K    J    I    H  
+      |----|----|----|----|----|----|
+         0    1    1    0    0    0
+   11                                12
+         2    2    1   14    0    4
+      |----|----|----|----|----|----|
+         A    B    C    D    E    F  
+               AMAZING'S PITS               
+
+Amazing's Score: 12
+Strategy's Score: 11
+Moved 1 from M
+Amazing's score increased by 0
+Strategy's score increased by 1
+Strategy gets to play again
+
+--------------------
+
+STRATEGY'S TURN
+
+              STRATEGY'S PITS               
+         M    L    K    J    I    H  
+      |----|----|----|----|----|----|
+         3    0    1    0    0    0
+   11                                12
+         0    2    1   14    0    4
+      |----|----|----|----|----|----|
+         A    B    C    D    E    F  
+               AMAZING'S PITS               
+
+Amazing's Score: 12
+Strategy's Score: 11
+Moved 1 from L
+Amazing's score increased by 0
+Strategy's score increased by 0
+Strategy captured 2 tiles from A!
+
+--------------------
+
+AMAZING'S TURN
+
+              STRATEGY'S PITS               
+         M    L    K    J    I    H  
+      |----|----|----|----|----|----|
+         3    0    1    1    1    1
+   11                                13
+         0    2    1   14    0    0
+      |----|----|----|----|----|----|
+         A    B    C    D    E    F  
+               AMAZING'S PITS               
+
+Amazing's Score: 13
+Strategy's Score: 11
+Moved 4 from F
+Amazing's score increased by 1
+Strategy's score increased by 0
+Chosen because it is closest to the pit
+
+--------------------
+
+STRATEGY'S TURN
+
+              STRATEGY'S PITS               
+         M    L    K    J    I    H  
+      |----|----|----|----|----|----|
+         0    0    1    1    1    1
+   12                                13
+         1    3    1   14    0    0
+      |----|----|----|----|----|----|
+         A    B    C    D    E    F  
+               AMAZING'S PITS               
+
+Amazing's Score: 13
+Strategy's Score: 12
+Moved 3 from M
+Amazing's score increased by 0
+Strategy's score increased by 1
+
+--------------------
+
+AMAZING'S TURN
+
+              STRATEGY'S PITS               
+         M    L    K    J    I    H  
+      |----|----|----|----|----|----|
+         0    0    1    1    0    1
+   12                                13
+         1    0    2   15    2    0
+      |----|----|----|----|----|----|
+         A    B    C    D    E    F  
+               AMAZING'S PITS               
+
+Amazing's Score: 13
+Strategy's Score: 12
+Moved 3 from B
+Amazing's score increased by 0
+Strategy's score increased by 0
+Amazing captured 1 tiles from I!
+Chosen because it captures seeds
+
+--------------------
+
+STRATEGY'S TURN
+
+              STRATEGY'S PITS               
+         M    L    K    J    I    H  
+      |----|----|----|----|----|----|
+         0    1    0    1    0    1
+   12                                13
+         1    0    2   15    2    0
+      |----|----|----|----|----|----|
+         A    B    C    D    E    F  
+               AMAZING'S PITS               
+
+Amazing's Score: 13
+Strategy's Score: 12
+Moved 1 from K
+Amazing's score increased by 0
+Strategy's score increased by 0
+Strategy captured 0 tiles from B!
+
+--------------------
+
+AMAZING'S TURN
+
+              STRATEGY'S PITS               
+         M    L    K    J    I    H  
+      |----|----|----|----|----|----|
+         0    1    0    1    0    1
+   12                                14
+         1    0    2   15    0    1
+      |----|----|----|----|----|----|
+         A    B    C    D    E    F  
+               AMAZING'S PITS               
+
+Amazing's Score: 14
+Strategy's Score: 12
+Moved 2 from E
+Amazing's score increased by 1
+Strategy's score increased by 0
+Amazing gets to play again
+Chosen because it gains another move
+
+--------------------
+
+AMAZING'S TURN
+
+              STRATEGY'S PITS               
+         M    L    K    J    I    H  
+      |----|----|----|----|----|----|
+         0    1    0    1    0    1
+   12                                15
+         1    0    2   15    0    0
+      |----|----|----|----|----|----|
+         A    B    C    D    E    F  
+               AMAZING'S PITS               
+
+Amazing's Score: 15
+Strategy's Score: 12
+Moved 1 from F
+Amazing's score increased by 1
+Strategy's score increased by 0
+Amazing gets to play again
+Chosen because it gains another move
+
+--------------------
+
+AMAZING'S TURN
+
+              STRATEGY'S PITS               
+         M    L    K    J    I    H  
+      |----|----|----|----|----|----|
+         0    0    0    1    0    1
+   12                                15
+         0    2    2   15    0    0
+      |----|----|----|----|----|----|
+         A    B    C    D    E    F  
+               AMAZING'S PITS               
+
+Amazing's Score: 15
+Strategy's Score: 12
+Moved 1 from A
+Amazing's score increased by 0
+Strategy's score increased by 0
+Amazing captured 1 tiles from L!
+Chosen because it captures seeds
+
+--------------------
+
+STRATEGY'S TURN
+
+              STRATEGY'S PITS               
+         M    L    K    J    I    H  
+      |----|----|----|----|----|----|
+         0    0    3    0    0    1
+   12                                15
+         0    2    0   15    0    0
+      |----|----|----|----|----|----|
+         A    B    C    D    E    F  
+               AMAZING'S PITS               
+
+Amazing's Score: 15
+Strategy's Score: 12
+Moved 1 from J
+Amazing's score increased by 0
+Strategy's score increased by 0
+Strategy captured 2 tiles from C!
+
+--------------------
+
+AMAZING'S TURN
+
+              STRATEGY'S PITS               
+         M    L    K    J    I    H  
+      |----|----|----|----|----|----|
+         1    1    4    1    1    2
+   13                                16
+         1    3    1    1    2    1
+      |----|----|----|----|----|----|
+         A    B    C    D    E    F  
+               AMAZING'S PITS               
+
+Amazing's Score: 16
+Strategy's Score: 13
+Moved 15 from D
+Amazing's score increased by 1
+Strategy's score increased by 1
+Chosen because it is closest to the pit
+
+--------------------
+
+STRATEGY'S TURN
+
+              STRATEGY'S PITS               
+         M    L    K    J    I    H  
+      |----|----|----|----|----|----|
+         0    1    4    1    1    2
+   14                                16
+         1    3    1    1    2    1
+      |----|----|----|----|----|----|
+         A    B    C    D    E    F  
+               AMAZING'S PITS               
+
+Amazing's Score: 16
+Strategy's Score: 14
+Moved 1 from M
+Amazing's score increased by 0
+Strategy's score increased by 1
+Strategy gets to play again
+
+--------------------
+
+STRATEGY'S TURN
+
+              STRATEGY'S PITS               
+         M    L    K    J    I    H  
+      |----|----|----|----|----|----|
+         2    0    4    1    1    2
+   14                                16
+         0    3    1    1    2    1
+      |----|----|----|----|----|----|
+         A    B    C    D    E    F  
+               AMAZING'S PITS               
+
+Amazing's Score: 16
+Strategy's Score: 14
+Moved 1 from L
+Amazing's score increased by 0
+Strategy's score increased by 0
+Strategy captured 1 tiles from A!
+
+--------------------
+
+AMAZING'S TURN
+
+              STRATEGY'S PITS               
+         M    L    K    J    I    H  
+      |----|----|----|----|----|----|
+         2    0    4    1    1    2
+   14                                17
+         0    3    1    1    0    2
+      |----|----|----|----|----|----|
+         A    B    C    D    E    F  
+               AMAZING'S PITS               
+
+Amazing's Score: 17
+Strategy's Score: 14
+Moved 2 from E
+Amazing's score increased by 1
+Strategy's score increased by 0
+Amazing gets to play again
+Chosen because it gains another move
+
+--------------------
+
+AMAZING'S TURN
+
+              STRATEGY'S PITS               
+         M    L    K    J    I    H  
+      |----|----|----|----|----|----|
+         2    0    4    1    0    2
+   14                                17
+         0    0    2    2    2    2
+      |----|----|----|----|----|----|
+         A    B    C    D    E    F  
+               AMAZING'S PITS               
+
+Amazing's Score: 17
+Strategy's Score: 14
+Moved 3 from B
+Amazing's score increased by 0
+Strategy's score increased by 0
+Amazing captured 1 tiles from I!
+Chosen because it captures seeds
+
+--------------------
+
+STRATEGY'S TURN
+
+              STRATEGY'S PITS               
+         M    L    K    J    I    H  
+      |----|----|----|----|----|----|
+         0    0    4    1    0    2
+   15                                17
+         1    0    2    2    2    2
+      |----|----|----|----|----|----|
+         A    B    C    D    E    F  
+               AMAZING'S PITS               
+
+Amazing's Score: 17
+Strategy's Score: 15
+Moved 2 from M
+Amazing's score increased by 0
+Strategy's score increased by 1
+
+--------------------
+
+AMAZING'S TURN
+
+              STRATEGY'S PITS               
+         M    L    K    J    I    H  
+      |----|----|----|----|----|----|
+         0    0    4    1    0    2
+   15                                18
+         1    0    2    2    0    3
+      |----|----|----|----|----|----|
+         A    B    C    D    E    F  
+               AMAZING'S PITS               
+
+Amazing's Score: 18
+Strategy's Score: 15
+Moved 2 from E
+Amazing's score increased by 1
+Strategy's score increased by 0
+Amazing gets to play again
+Chosen because it gains another move
+
+--------------------
+
+AMAZING'S TURN
+
+              STRATEGY'S PITS               
+         M    L    K    J    I    H  
+      |----|----|----|----|----|----|
+         0    0    4    1    0    2
+   15                                18
+         0    1    2    2    0    3
+      |----|----|----|----|----|----|
+         A    B    C    D    E    F  
+               AMAZING'S PITS               
+
+Amazing's Score: 18
+Strategy's Score: 15
+Moved 1 from A
+Amazing's score increased by 0
+Strategy's score increased by 0
+Amazing captured 0 tiles from L!
+Chosen because it captures seeds
+
+--------------------
+
+STRATEGY'S TURN
+
+              STRATEGY'S PITS               
+         M    L    K    J    I    H  
+      |----|----|----|----|----|----|
+         1    1    0    1    0    2
+   16                                18
+         1    1    2    2    0    3
+      |----|----|----|----|----|----|
+         A    B    C    D    E    F  
+               AMAZING'S PITS               
+
+Amazing's Score: 18
+Strategy's Score: 16
+Moved 4 from K
+Amazing's score increased by 0
+Strategy's score increased by 1
+
+--------------------
+
+AMAZING'S TURN
+
+              STRATEGY'S PITS               
+         M    L    K    J    I    H  
+      |----|----|----|----|----|----|
+         1    1    0    1    0    2
+   16                                18
+         1    1    0    3    1    3
+      |----|----|----|----|----|----|
+         A    B    C    D    E    F  
+               AMAZING'S PITS               
+
+Amazing's Score: 18
+Strategy's Score: 16
+Moved 2 from C
+Amazing's score increased by 0
+Strategy's score increased by 0
+Amazing captured 0 tiles from I!
+Chosen because it captures seeds
+
+--------------------
+
+STRATEGY'S TURN
+
+              STRATEGY'S PITS               
+         M    L    K    J    I    H  
+      |----|----|----|----|----|----|
+         0    1    0    1    0    2
+   17                                18
+         1    1    0    3    1    3
+      |----|----|----|----|----|----|
+         A    B    C    D    E    F  
+               AMAZING'S PITS               
+
+Amazing's Score: 18
+Strategy's Score: 17
+Moved 1 from M
+Amazing's score increased by 0
+Strategy's score increased by 1
+Strategy gets to play again
+
+--------------------
+
+STRATEGY'S TURN
+
+              STRATEGY'S PITS               
+         M    L    K    J    I    H  
+      |----|----|----|----|----|----|
+         2    0    0    1    0    2
+   17                                18
+         0    1    0    3    1    3
+      |----|----|----|----|----|----|
+         A    B    C    D    E    F  
+               AMAZING'S PITS               
+
+Amazing's Score: 18
+Strategy's Score: 17
+Moved 1 from L
+Amazing's score increased by 0
+Strategy's score increased by 0
+Strategy captured 1 tiles from A!
+
+--------------------
+
+AMAZING'S TURN
+
+              STRATEGY'S PITS               
+         M    L    K    J    I    H  
+      |----|----|----|----|----|----|
+         2    0    0    1    0    2
+   17                                19
+         0    1    0    0    2    4
+      |----|----|----|----|----|----|
+         A    B    C    D    E    F  
+               AMAZING'S PITS               
+
+Amazing's Score: 19
+Strategy's Score: 17
+Moved 3 from D
+Amazing's score increased by 1
+Strategy's score increased by 0
+Amazing gets to play again
+Chosen because it gains another move
+
+--------------------
+
+AMAZING'S TURN
+
+              STRATEGY'S PITS               
+         M    L    K    J    I    H  
+      |----|----|----|----|----|----|
+         2    0    0    1    0    2
+   17                                20
+         0    1    0    0    0    5
+      |----|----|----|----|----|----|
+         A    B    C    D    E    F  
+               AMAZING'S PITS               
+
+Amazing's Score: 20
+Strategy's Score: 17
+Moved 2 from E
+Amazing's score increased by 1
+Strategy's score increased by 0
+Amazing gets to play again
+Chosen because it gains another move
+
+--------------------
+
+AMAZING'S TURN
+
+              STRATEGY'S PITS               
+         M    L    K    J    I    H  
+      |----|----|----|----|----|----|
+         2    0    0    1    0    2
+   17                                20
+         0    0    1    0    0    5
+      |----|----|----|----|----|----|
+         A    B    C    D    E    F  
+               AMAZING'S PITS               
+
+Amazing's Score: 20
+Strategy's Score: 17
+Moved 1 from B
+Amazing's score increased by 0
+Strategy's score increased by 0
+Amazing captured 0 tiles from K!
+Chosen because it captures seeds
+
+--------------------
+
+STRATEGY'S TURN
+
+              STRATEGY'S PITS               
+         M    L    K    J    I    H  
+      |----|----|----|----|----|----|
+         0    0    0    1    0    2
+   18                                20
+         1    0    1    0    0    5
+      |----|----|----|----|----|----|
+         A    B    C    D    E    F  
+               AMAZING'S PITS               
+
+Amazing's Score: 20
+Strategy's Score: 18
+Moved 2 from M
+Amazing's score increased by 0
+Strategy's score increased by 1
+
+--------------------
+
+AMAZING'S TURN
+
+              STRATEGY'S PITS               
+         M    L    K    J    I    H  
+      |----|----|----|----|----|----|
+         0    0    0    1    0    2
+   18                                20
+         0    1    1    0    0    5
+      |----|----|----|----|----|----|
+         A    B    C    D    E    F  
+               AMAZING'S PITS               
+
+Amazing's Score: 20
+Strategy's Score: 18
+Moved 1 from A
+Amazing's score increased by 0
+Strategy's score increased by 0
+Amazing captured 0 tiles from L!
+Chosen because it captures seeds
+
+--------------------
+
+STRATEGY'S TURN
+
+              STRATEGY'S PITS               
+         M    L    K    J    I    H  
+      |----|----|----|----|----|----|
+         0    0    2    0    0    2
+   18                                20
+         0    1    0    0    0    5
+      |----|----|----|----|----|----|
+         A    B    C    D    E    F  
+               AMAZING'S PITS               
+
+Amazing's Score: 20
+Strategy's Score: 18
+Moved 1 from J
+Amazing's score increased by 0
+Strategy's score increased by 0
+Strategy captured 1 tiles from C!
+
+--------------------
+
+AMAZING'S TURN
+
+              STRATEGY'S PITS               
+         M    L    K    J    I    H  
+      |----|----|----|----|----|----|
+         0    0    0    0    0    2
+   18                                20
+         0    0    3    0    0    5
+      |----|----|----|----|----|----|
+         A    B    C    D    E    F  
+               AMAZING'S PITS               
+
+Amazing's Score: 20
+Strategy's Score: 18
+Moved 1 from B
+Amazing's score increased by 0
+Strategy's score increased by 0
+Amazing captured 2 tiles from K!
+Chosen because it captures seeds
+
+--------------------
+
+STRATEGY'S TURN
+
+              STRATEGY'S PITS               
+         M    L    K    J    I    H  
+      |----|----|----|----|----|----|
+         0    0    0    1    1    0
+   18                                20
+         0    0    3    0    0    5
+      |----|----|----|----|----|----|
+         A    B    C    D    E    F  
+               AMAZING'S PITS               
+
+Amazing's Score: 20
+Strategy's Score: 18
+Moved 2 from H
+Amazing's score increased by 0
+Strategy's score increased by 0
+Strategy captured 0 tiles from D!
+
+--------------------
+
+AMAZING'S TURN
+
+              STRATEGY'S PITS               
+         M    L    K    J    I    H  
+      |----|----|----|----|----|----|
+         0    0    1    2    2    1
+   18                                21
+         0    0    3    0    0    0
+      |----|----|----|----|----|----|
+         A    B    C    D    E    F  
+               AMAZING'S PITS               
+
+Amazing's Score: 21
+Strategy's Score: 18
+Moved 5 from F
+Amazing's score increased by 1
+Strategy's score increased by 0
+Chosen because it is closest to the pit
+
+--------------------
+
+STRATEGY'S TURN
+
+              STRATEGY'S PITS               
+         M    L    K    J    I    H  
+      |----|----|----|----|----|----|
+         0    1    0    2    2    1
+   18                                21
+         0    0    3    0    0    0
+      |----|----|----|----|----|----|
+         A    B    C    D    E    F  
+               AMAZING'S PITS               
+
+Amazing's Score: 21
+Strategy's Score: 18
+Moved 1 from K
+Amazing's score increased by 0
+Strategy's score increased by 0
+Strategy captured 0 tiles from B!
+
+--------------------
+
+AMAZING'S TURN
+
+              STRATEGY'S PITS               
+         M    L    K    J    I    H  
+      |----|----|----|----|----|----|
+         0    1    0    2    2    0
+   18                                21
+         0    0    0    1    1    2
+      |----|----|----|----|----|----|
+         A    B    C    D    E    F  
+               AMAZING'S PITS               
+
+Amazing's Score: 21
+Strategy's Score: 18
+Moved 3 from C
+Amazing's score increased by 0
+Strategy's score increased by 0
+Amazing captured 1 tiles from H!
+Chosen because it captures seeds
+
+--------------------
+
+STRATEGY'S TURN
+
+              STRATEGY'S PITS               
+         M    L    K    J    I    H  
+      |----|----|----|----|----|----|
+         1    0    0    2    2    0
+   18                                21
+         0    0    0    1    1    2
+      |----|----|----|----|----|----|
+         A    B    C    D    E    F  
+               AMAZING'S PITS               
+
+Amazing's Score: 21
+Strategy's Score: 18
+Moved 1 from L
+Amazing's score increased by 0
+Strategy's score increased by 0
+Strategy captured 0 tiles from A!
+
+--------------------
+
+AMAZING'S TURN
+
+              STRATEGY'S PITS               
+         M    L    K    J    I    H  
+      |----|----|----|----|----|----|
+         1    0    0    2    2    1
+   18                                22
+         0    0    0    1    1    0
+      |----|----|----|----|----|----|
+         A    B    C    D    E    F  
+               AMAZING'S PITS               
+
+Amazing's Score: 22
+Strategy's Score: 18
+Moved 2 from F
+Amazing's score increased by 1
+Strategy's score increased by 0
+Chosen because it is closest to the pit
+
+--------------------
+
+STRATEGY'S TURN
+
+              STRATEGY'S PITS               
+         M    L    K    J    I    H  
+      |----|----|----|----|----|----|
+         0    0    0    2    2    1
+   19                                22
+         0    0    0    1    1    0
+      |----|----|----|----|----|----|
+         A    B    C    D    E    F  
+               AMAZING'S PITS               
+
+Amazing's Score: 22
+Strategy's Score: 19
+Moved 1 from M
+Amazing's score increased by 0
+Strategy's score increased by 1
+Strategy gets to play again
+
+--------------------
+
+STRATEGY'S TURN
+
+              STRATEGY'S PITS               
+         M    L    K    J    I    H  
+      |----|----|----|----|----|----|
+         0    1    1    0    2    1
+   19                                22
+         0    0    0    1    1    0
+      |----|----|----|----|----|----|
+         A    B    C    D    E    F  
+               AMAZING'S PITS               
+
+Amazing's Score: 22
+Strategy's Score: 19
+Moved 2 from J
+Amazing's score increased by 0
+Strategy's score increased by 0
+Strategy captured 0 tiles from B!
+
+--------------------
+
+AMAZING'S TURN
+
+              STRATEGY'S PITS               
+         M    L    K    J    I    H  
+      |----|----|----|----|----|----|
+         0    1    1    0    2    0
+   19                                22
+         0    0    0    1    0    2
+      |----|----|----|----|----|----|
+         A    B    C    D    E    F  
+               AMAZING'S PITS               
+
+Amazing's Score: 22
+Strategy's Score: 19
+Moved 1 from E
+Amazing's score increased by 0
+Strategy's score increased by 0
+Amazing captured 1 tiles from H!
+Chosen because it captures seeds
+
+--------------------
+
+STRATEGY'S TURN
+
+              STRATEGY'S PITS               
+         M    L    K    J    I    H  
+      |----|----|----|----|----|----|
+         1    0    1    0    2    0
+   19                                22
+         0    0    0    1    0    2
+      |----|----|----|----|----|----|
+         A    B    C    D    E    F  
+               AMAZING'S PITS               
+
+Amazing's Score: 22
+Strategy's Score: 19
+Moved 1 from L
+Amazing's score increased by 0
+Strategy's score increased by 0
+Strategy captured 0 tiles from A!
+
+--------------------
+
+AMAZING'S TURN
+
+              STRATEGY'S PITS               
+         M    L    K    J    I    H  
+      |----|----|----|----|----|----|
+         1    0    1    0    0    0
+   19                                22
+         0    0    0    0    3    2
+      |----|----|----|----|----|----|
+         A    B    C    D    E    F  
+               AMAZING'S PITS               
+
+Amazing's Score: 22
+Strategy's Score: 19
+Moved 1 from D
+Amazing's score increased by 0
+Strategy's score increased by 0
+Amazing captured 2 tiles from I!
+Chosen because it captures seeds
+
+--------------------
+
+STRATEGY'S TURN
+
+              STRATEGY'S PITS               
+         M    L    K    J    I    H  
+      |----|----|----|----|----|----|
+         0    0    1    0    0    0
+   20                                22
+         0    0    0    0    3    2
+      |----|----|----|----|----|----|
+         A    B    C    D    E    F  
+               AMAZING'S PITS               
+
+Amazing's Score: 22
+Strategy's Score: 20
+Moved 1 from M
+Amazing's score increased by 0
+Strategy's score increased by 1
+Strategy gets to play again
+
+--------------------
+
+STRATEGY'S TURN
+
+              STRATEGY'S PITS               
+         M    L    K    J    I    H  
+      |----|----|----|----|----|----|
+         0    1    0    0    0    0
+   20                                22
+         0    0    0    0    3    2
+      |----|----|----|----|----|----|
+         A    B    C    D    E    F  
+               AMAZING'S PITS               
+
+Amazing's Score: 22
+Strategy's Score: 20
+Moved 1 from K
+Amazing's score increased by 0
+Strategy's score increased by 0
+Strategy captured 0 tiles from B!
+
+--------------------
+
+AMAZING'S TURN
+
+              STRATEGY'S PITS               
+         M    L    K    J    I    H  
+      |----|----|----|----|----|----|
+         0    1    0    0    0    1
+   20                                23
+         0    0    0    0    3    0
+      |----|----|----|----|----|----|
+         A    B    C    D    E    F  
+               AMAZING'S PITS               
+
+Amazing's Score: 23
+Strategy's Score: 20
+Moved 2 from F
+Amazing's score increased by 1
+Strategy's score increased by 0
+Chosen because it is closest to the pit
+
+--------------------
+
+STRATEGY'S TURN
+
+              STRATEGY'S PITS               
+         M    L    K    J    I    H  
+      |----|----|----|----|----|----|
+         1    0    0    0    0    1
+   20                                23
+         0    0    0    0    3    0
+      |----|----|----|----|----|----|
+         A    B    C    D    E    F  
+               AMAZING'S PITS               
+
+Amazing's Score: 23
+Strategy's Score: 20
+Moved 1 from L
+Amazing's score increased by 0
+Strategy's score increased by 0
+Strategy captured 0 tiles from A!
+
+--------------------
+
+AMAZING'S TURN
+
+              STRATEGY'S PITS               
+         M    L    K    J    I    H  
+      |----|----|----|----|----|----|
+         1    0    0    0    0    2
+   20                                24
+         0    0    0    0    0    1
+      |----|----|----|----|----|----|
+         A    B    C    D    E    F  
+               AMAZING'S PITS               
+
+Amazing's Score: 24
+Strategy's Score: 20
+Moved 3 from E
+Amazing's score increased by 1
+Strategy's score increased by 0
+Chosen because it is closest to the pit
+
+--------------------
+
+STRATEGY'S TURN
+
+              STRATEGY'S PITS               
+         M    L    K    J    I    H  
+      |----|----|----|----|----|----|
+         0    0    0    0    0    2
+   21                                24
+         0    0    0    0    0    1
+      |----|----|----|----|----|----|
+         A    B    C    D    E    F  
+               AMAZING'S PITS               
+
+Amazing's Score: 24
+Strategy's Score: 21
+Moved 1 from M
+Amazing's score increased by 0
+Strategy's score increased by 1
+Strategy gets to play again
+
+--------------------
+
+STRATEGY'S TURN
+
+              STRATEGY'S PITS               
+         M    L    K    J    I    H  
+      |----|----|----|----|----|----|
+         0    0    0    1    1    0
+   21                                24
+         0    0    0    0    0    1
+      |----|----|----|----|----|----|
+         A    B    C    D    E    F  
+               AMAZING'S PITS               
+
+Amazing's Score: 24
+Strategy's Score: 21
+Moved 2 from H
+Amazing's score increased by 0
+Strategy's score increased by 0
+Strategy captured 0 tiles from D!
+
+--------------------
+
+AMAZING'S TURN
+
+              STRATEGY'S PITS               
+         M    L    K    J    I    H  
+      |----|----|----|----|----|----|
+         0    0    0    1    1    0
+   21                                25
+         0    0    0    0    0    0
+      |----|----|----|----|----|----|
+         A    B    C    D    E    F  
+               AMAZING'S PITS               
+
+Amazing's Score: 25
+Strategy's Score: 21
+Moved 1 from F
+Amazing's score increased by 1
+Strategy's score increased by 0
+Amazing gets to play again
+Chosen because it gains another move
+
+--------------------
+
+              STRATEGY'S PITS               
+         M    L    K    J    I    H  
+      |----|----|----|----|----|----|
+         0    0    0    0    0    0
+   23                                25
+         0    0    0    0    0    0
+      |----|----|----|----|----|----|
+         A    B    C    D    E    F  
+               AMAZING'S PITS               
+
+Amazing's Score: 25
+Strategy's Score: 23
+
+--------------------
+
+Amazing Won!

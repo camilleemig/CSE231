@@ -1,0 +1,18 @@
+Amazing Player’s Strategy
+
+First chooses strategy for getting another move
+  Loops to see if any move will end in the player's pit
+
+Then chooses because it captures seeds from the other side
+  Loops to see if any move will end in an empty pit
+
+Then chooses strategy to hurt other player
+  Loops to see if any move will end in a pit that would have gotten the next player
+  another move
+
+Then chooses strategy to clear pits for stealing seeds
+  Loops to find the pit closest to the player’s scoring pit that has at least one seed.
+
+Using a test file I created, I tested all combinations of pits and seeds, and recorded the statistics for 1000 games on each combination
+Although in each combination, the amazing player usually only won a little over half of the games, with some anomalies, on a large scale, amazing won the majority of the games
+When seeded with the number 50, amazing wins 17009 games, strategy wins 8978 games, and they tie 4013 games
