@@ -3,19 +3,20 @@
 Creates a game of mancala that can be played in the terminal
 
 ## [Project 1](/Project1)
-Calculates the pounds of greenhouse gas per year, change in pounds of emmissions if the mileage went up by 1pmg, and the change in pounds of emissions if the mileage went up by 5mpg based on the mpg of a car and the miles driven per year as inputs.
+Calculates windchill from given inputs and converts temperature units.
 
 ## [Project 2](/Project2)
-Calculates the gcd, a list of totatives, and the count of the totient function for two input numbers.
+Calculates the total of all of the numbers that make up a number that the user had input.
 
 ## [Project 3](/Project3)
-Calculates if a number is prime, if it is powerful, if it is a perfect power, and if it is achilles.
+Calculates tutition for a student given information about their credits and year.
 
 ## [Project 4](/Project4)
-Calculates is a function is prime, is semiprime, is a palindrome, is emirp, is emirpimes, reverses a number.
+Calculates the minimum change in GDP, the year in which it occurred, and the minimum GDP
+Calculates the maximum change in GDP, the year in which it occurred, and the maximum GDP
 
 ## [Project 5](/Project5)
-Encodes and decodes using a pangram key encryption.
+Calculates and graphs average flow annually and for individual months based on information from a file.
 
 ## [Project 6](/Project6)
 Calculates data on death row statistics from a csv file.
